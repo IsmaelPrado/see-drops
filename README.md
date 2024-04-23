@@ -1,4 +1,4 @@
-# Ver-Gotas
+# Documentación del Proyecto Ver-Gotas IoT 2024
 Contiene la documentacion del proyecto para IoT 2024
 
 ## Integrantes
@@ -21,7 +21,7 @@ Contiene la documentacion del proyecto para IoT 2024
 | 10 | Buzzer | Emite sonido de alerta ante detección de fugas | ![Buzzer](https://m.media-amazon.com/images/I/517iEhc31GL._AC_UF894,1000_QL80_.jpg) | 2 | $160 |
 | 11 | LED | Indica estados o condiciones del sistema | ![LED](https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/15879bb11/led-ultrabrillante-de-5-mm-color-rojo.jpg) | 2 | $2 |
 | 12 | Cable de estaño (color rojo y negro) | Utilizado para las conexiones eléctricas | ![Cable de estaño](https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/208864211/alambre-esta-ado-para-conexiones-de-color-negro-calibre-22-awg.jpg) | 12 metros (6 rojos, 6 negros) | $144 |
-| 13 | Cinta aislante | Aísla y protege las conexiones eléctricas | ![Cinta aislante]([imagen_cinta_aislante.jpg](https://cdn.homedepot.com.mx/productos/862736/862736-d.jpg)) | 1 | $60 |
+| 13 | Cinta aislante | Aísla y protege las conexiones eléctricas | ![Cinta aislante]([i(https://cdn.homedepot.com.mx/productos/862736/862736-d.jpg)) | 1 | $60 |
 | 14 | Caja de plástico | Contenedor para guardar los componentes del sistema | ![Caja de plástico](https://m.media-amazon.com/images/I/51ze1QScdPL._AC_UF894,1000_QL80_.jpg) | 1 | $40 |
 | 15 | Raspberry Pi | Placa de computadora para almacenamiento de datos y control del sistema | ![Raspberry Pi](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg/1200px-Raspberry_Pi_4_Model_B_-_Side.jpg) | 1 | Prestada |
 
