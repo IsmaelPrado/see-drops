@@ -1,4 +1,4 @@
-# Documentación del Proyecto Ver-Gotas IoT 2024
+# 🌊 **See-Drops: Documentación Completa del Proyecto IoT 2024** 🌐
 Contiene la documentacion del proyecto para IoT 2024
 
 ## Integrantes
@@ -53,10 +53,14 @@ para ser ampliamente compartido,
 conciso y fácil de recordar"
 Referencia:
 
+
     Menzinsky, A. (2017). ¿Cómo se realiza la visión del producto?. Scrum.menzinsky.com. Retrieved 19 January 2017, from ¿Cómo se realiza la visión del producto?
 
 
 ## Conexiones
+Aquí mostramos las conexiones de nuestro proyecto:
+
+![seedrops}](https://github.com/IsmaelPrado/see-drops/assets/135056065/65ae2622-8123-42c4-b23d-00e3a4aa5d5c)
 
 
 
@@ -71,8 +75,6 @@ Referencia:
 | 7 | Como usuario, quiero que el sistema registre y almacene los datos de flujo de agua en una base de datos en la Raspberry Pi para su análisis y seguimiento. | Alta | 8 puntos | 1. Generar flujo de agua en la maqueta. 2. Verificar que los datos de flujo se almacenen correctamente en la base de datos de la Raspberry Pi. | Equipo de Desarrollo |
 | 9 | Como administrador, quiero recibir alertas en Grafana cuando se detecte una fuga de agua en alguna área específica de la vivienda, utilizando los datos de la base de datos en la Raspberry Pi y la información del buzzer. | Alta | 8 puntos | 1. Configurar las alertas en Grafana para detectar fugas de agua utilizando los datos de la base de datos en la Raspberry Pi. 2. Simular una fuga de agua en una área específica y verificar que se reciba la alerta en Grafana y el buzzer emita el sonido correspondiente. | Equipo de Desarrollo |
 
-## Prototipo en dibujo
-- Coloca la imagen de tu proyecto al iniciar el desarrollo
 
 # Evidencias de funcionamiento
 - Captura de pantalla de flujos de Node RED
