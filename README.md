@@ -61,6 +61,10 @@ Referencia:
 Aquí mostramos las conexiones de nuestro proyecto:
 
 ![seedrops}](https://github.com/IsmaelPrado/see-drops/assets/135056065/65ae2622-8123-42c4-b23d-00e3a4aa5d5c)
+![seedropspbc](https://github.com/IsmaelPrado/see-drops/assets/135056065/7a7f20d5-43d8-481c-870f-0033ec77c128)
+![seadropsESpematico](https://github.com/IsmaelPrado/see-drops/assets/135056065/9bf0bd3f-e4f8-46ca-b290-141d36e38e00)
+
+
 
 
 
