@@ -81,7 +81,31 @@ Aquí mostramos las conexiones de nuestro proyecto:
 
 
 # Evidencias de funcionamiento
+- Fotografías de evidencia de conexión física
+![ac2cade8-9b52-4ba6-ad4b-9225b53cbdff](https://github.com/IsmaelPrado/see-drops/assets/135056065/6592b461-b29b-488d-901c-10de20be7950)
+![84d4d307-df8f-49e7-aeda-146a99d7070b](https://github.com/IsmaelPrado/see-drops/assets/135056065/17e2dda4-ab99-4de9-bb75-24d07d683b21)
+![45384688-cfa6-4949-8004-de16786159ec](https://github.com/IsmaelPrado/see-drops/assets/135056065/d784d95c-57ec-4252-842a-c5c55dacb4c9)
+
+
 - Captura de pantalla de flujos de Node RED
+![377f7beb-a7b0-4b06-999c-b3ea67bc3366](https://github.com/IsmaelPrado/see-drops/assets/135056065/3db0f471-f138-4a4d-af30-6969db09c66c)
+
+![ee9ddcb7-8454-415b-bf34-578e9f14b134](https://github.com/IsmaelPrado/see-drops/assets/135056065/63dfe434-f708-431d-8f32-36f62a2cf9b4)
+
+![a3b73ac6-73c0-43fd-84fe-edf8c747e284](https://github.com/IsmaelPrado/see-drops/assets/135056065/fc93d983-feda-48d5-8a5b-eba2ef68164e)
+
+![784155a9-817b-4f82-aa64-9810956b4856](https://github.com/IsmaelPrado/see-drops/assets/135056065/ae86aadd-a253-41fd-992d-2688dc09d183)
+
 - Captura de las pantallas del proyecto DASHBOARD y Pantalla de la ESP32
+![0096fb19-e08d-46cc-8fdd-9c2b94f4f5d4](https://github.com/IsmaelPrado/see-drops/assets/135056065/a9bb647f-cec8-4af2-9c9f-fae22c278b45)
+
+![343155ed-cd72-42fe-b052-093fd1071c87](https://github.com/IsmaelPrado/see-drops/assets/135056065/a0bb15d3-0837-4230-b93a-cadab90df032)
+
+![06dbe8cf-a78b-465d-9400-88127edca973](https://github.com/IsmaelPrado/see-drops/assets/135056065/3c2889d9-ea04-4018-949a-e36ea6efd98a)
+
+
 - Video demostrativo de las funcionalidades del proyecto: https://youtu.be/3VXkXP6eLUQ?si=QHWZukGNufMEGZiN
 - Código fuente (PROHIBIDO PONER COMPRIMIDOS)
+  
+  ![b50feb53-8f15-4298-b5e9-e5def6aef74f](https://github.com/IsmaelPrado/see-drops/assets/135056065/dbdb455d-7bc7-4b30-b578-158da670845e)
+
