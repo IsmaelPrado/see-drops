@@ -103,9 +103,9 @@ Aquí mostramos las conexiones de nuestro proyecto:
 
 ![06dbe8cf-a78b-465d-9400-88127edca973](https://github.com/IsmaelPrado/see-drops/assets/135056065/3c2889d9-ea04-4018-949a-e36ea6efd98a)
 
-
-- Video demostrativo de las funcionalidades del proyecto: https://youtu.be/3VXkXP6eLUQ?si=QHWZukGNufMEGZiN
-- Código fuente (PROHIBIDO PONER COMPRIMIDOS)
+- Código fuente 
   
   ![b50feb53-8f15-4298-b5e9-e5def6aef74f](https://github.com/IsmaelPrado/see-drops/assets/135056065/dbdb455d-7bc7-4b30-b578-158da670845e)
+
+# Video demostrativo de las funcionalidades del proyecto: https://youtu.be/3VXkXP6eLUQ?si=QHWZukGNufMEGZiN
 
