@@ -218,3 +218,7 @@ Aquí mostramos las conexiones de nuestro proyecto:
 
 # Video demostrativo de las funcionalidades del proyecto: https://youtu.be/3VXkXP6eLUQ?si=QHWZukGNufMEGZiN
 
+## Carta de Agradecimiento:
+
+![5daf1664-c143-4c48-99b6-0531410c0462](https://github.com/IsmaelPrado/see-drops/assets/135056065/aa5f8c8e-044c-46ee-b5be-88708c0d14ff)
+
