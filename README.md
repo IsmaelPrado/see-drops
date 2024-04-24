@@ -83,5 +83,5 @@ Aquí mostramos las conexiones de nuestro proyecto:
 # Evidencias de funcionamiento
 - Captura de pantalla de flujos de Node RED
 - Captura de las pantallas del proyecto DASHBOARD y Pantalla de la ESP32
-- Video demostrativo de las funcionalidades del proyecto
+- Video demostrativo de las funcionalidades del proyecto: https://youtu.be/3VXkXP6eLUQ?si=QHWZukGNufMEGZiN
 - Código fuente (PROHIBIDO PONER COMPRIMIDOS)
